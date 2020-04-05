@@ -1,0 +1,8 @@
+﻿4/5/2020 11:20:57 AM
+4/5/2020 11:20:59 AM
+-2.54
+0.24
+0.9
+1
+I'm a string
+Stringy string string

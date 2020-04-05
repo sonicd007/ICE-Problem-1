@@ -1,0 +1,6 @@
+3/5/2020 11:20:57 AM
+-10.00
+1.0
+10.00
+Apples and oranges
+Stringy string string
